@@ -1,0 +1,2 @@
+GET http://localhost:3001/api/blogs/63860df7e0e485d595379e41/comments
+content-type: application/json
